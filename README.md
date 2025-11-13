@@ -158,13 +158,13 @@ I contain multitudes, and so does my code.
 
 ---
 
-## 🐱 Connect With Me
+<img src="https://media.tenor.com/UcZyRYM47ocAAAAM/smiling-cat-happy-cat.gif" alt="Cat Waiting" align="right" width="90"/>
 
-<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat cump" align="left" width="341"/>
+## 🐱 Connect With Me
 
 *"The best way to predict the future is to build it."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/lourence-d/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourence-d/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourencedecena@gmail.com)
 
