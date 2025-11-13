@@ -1,4 +1,4 @@
-<img src="[https://YOUR_GIYU_GIF_LINK.gif](https://giffiles.alphacoders.com/222/222993.gif)" alt="Giyu" align="right" width="180"/>
+<img src="https://giffiles.alphacoders.com/222/222993.gif" alt="Giyu" align="right" width="180"/>
 
 # 🌟 Welcome to My Digital Realm
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌊 WATER — The Depths I Explore
+## 🌊 The Depths I Explore
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -45,7 +45,7 @@ Like diving into the ocean's depths, I plunge into problems headfirst — holdin
 
 ---
 
-## ⛰️ EARTH — The Heights I Conquer
+## ⛰️ The Heights I Conquer
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -77,7 +77,7 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 
 ---
 
-## 🪂 SKY — The Leap of Faith
+## 🪂 The Leap of Faith
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
