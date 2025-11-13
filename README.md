@@ -13,7 +13,6 @@
 ---
 
 ## 🌊 WATER — The Depths I Explore
-*Swimming & Freediving*
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -45,7 +44,6 @@ Like diving into the ocean's depths, I plunge into problems headfirst — holdin
 ---
 
 ## ⛰️ EARTH — The Heights I Conquer
-*Hiking & Mountain Climbing*
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -78,7 +76,6 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 ---
 
 ## 🪂 SKY — The Leap of Faith
-*Skydiving*
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
