@@ -17,7 +17,7 @@
 
 ## 🌊 The Depths I Explore
 
-<img src="https://i.pinimg.com/1200x/e2/82/04/e282049d81676c7249b100b4e1729588.jpg" alt="Cat Swim" align="left" width="282"/>
+<img src="https://i.pinimg.com/1200x/e2/82/04/e282049d81676c7249b100b4e1729588.jpg" alt="Cat Swim" align="left" width="280"/>
 
 ```
 
@@ -51,7 +51,7 @@ Like diving into the ocean's depths, I plunge into problems headfirst — holdin
 
 ## ⛰️ The Heights I Conquer
 
-<img src="https://i.pinimg.com/originals/a4/62/4d/a4624d5a0839a2817eaabd1dec2c518c.gif" alt="Cat Climb" align="right" width="175"/>
+<img src="https://i.pinimg.com/originals/a4/62/4d/a4624d5a0839a2817eaabd1dec2c518c.gif" alt="Cat Climb" align="right" width="172"/>
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -85,7 +85,7 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 
 ## 🪂 The Leap of Faith
 
-<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat jump" align="left" width="389"/>
+<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat jump" align="left" width="380"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
