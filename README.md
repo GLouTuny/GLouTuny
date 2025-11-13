@@ -51,7 +51,7 @@ Like diving into the ocean's depths, I plunge into problems headfirst — holdin
 
 ## ⛰️ The Heights I Conquer
 
-<img src="https://i.pinimg.com/originals/a4/62/4d/a4624d5a0839a2817eaabd1dec2c518c.gif" alt="Cat Climb" align="right" width="170"/>
+<img src="https://i.pinimg.com/originals/a4/62/4d/a4624d5a0839a2817eaabd1dec2c518c.gif" alt="Cat Climb" align="right" width="172"/>
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -85,7 +85,7 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 
 ## 🪂 The Leap of Faith
 
-<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat jump" align="left" width="360"/>
+<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat jump" align="left" width="330"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
