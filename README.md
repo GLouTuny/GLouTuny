@@ -16,21 +16,21 @@
 *Swimming & Freediving*
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~        ║
-║   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~       ║
-║  ~  ~  ~  ~  ~  ~  💧 DIVING DEEP 💧  ~  ~  ~  ~  ~  ~  ~   ║
-║   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~       ║
-║     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~        ║
-║        ~  ~  ~  🐟  ~  ~  ~  ~  ~  🐠  ~  ~  ~  ~           ║
-║          ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~               ║
-║             ~  ~  ~  ~  🐡   ~  ~  ~  ~  ~                   ║
-║                ~  ~  ~  ~  ~  ~  ~  ~                        ║
-║                   ~  ~  ~  ~  ~  ~                           ║
-║                      ~  ~  ~  ~                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                    ║
+║     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~    ║
+║   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ║
+║  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  💧 DIVING DEEP 💧  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ║
+║   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ║
+║     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~    ║
+║        ~  ~  ~  🐟  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  🐠  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~     ║
+║          ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~     ║
+║             ~  ~  ~  ~  🐡  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~       ║
+║                ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~         ║
+║                   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~            ║
+║                      ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~               ║
+║                                                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 Like diving into the ocean's depths, I plunge into problems headfirst — holding my breath, staying focused, and emerging with solutions. The water teaches me patience, control, and the beauty of silence.
@@ -48,22 +48,23 @@ Like diving into the ocean's depths, I plunge into problems headfirst — holdin
 *Hiking & Mountain Climbing*
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║                         ╱╲                                    ║
-║                        ╱  ╲                                   ║
-║                       ╱ 🚩 ╲              ╱╲                  ║
-║                      ╱______╲            ╱  ╲                 ║
-║                     ╱        ╲          ╱    ╲                ║
-║            ╱╲      ╱          ╲    ╱╲  ╱      ╲               ║
-║           ╱  ╲    ╱            ╲  ╱  ╲╱        ╲              ║
-║          ╱    ╲  ╱       🧗     ╲╱              ╲             ║
-║         ╱      ╲╱                                ╲            ║
-║   🌲   ╱                                          ╲   🌲     ║
-║  🌲🌲 ╱____________________________________________╲ 🌲🌲   ║
-║ 🌲🌲🌲             CLIMBING TO THE PEAK          🌲🌲🌲🌲  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                    ║
+║                                              ╱╲                                                                    ║
+║                                             ╱  ╲                                                                   ║
+║                                            ╱ 🚩 ╲                                                                  ║
+║                                           ╱______╲                     ╱╲                                          ║
+║                                          ╱        ╲                   ╱  ╲                                         ║
+║                                 ╱╲      ╱          ╲          ╱╲     ╱    ╲              ╱╲                       ║
+║                                ╱  ╲    ╱            ╲        ╱  ╲   ╱      ╲            ╱  ╲                      ║
+║                       ╱╲      ╱    ╲  ╱       🧗     ╲      ╱    ╲ ╱        ╲          ╱    ╲                     ║
+║                      ╱  ╲    ╱      ╲╱                ╲    ╱      ╲          ╲        ╱      ╲        ╱╲          ║
+║             ╱╲      ╱    ╲  ╱                          ╲  ╱                    ╲      ╱        ╲      ╱  ╲         ║
+║      🌲    ╱  ╲    ╱      ╲╱                            ╲╱                      ╲    ╱          ╲    ╱    ╲   🌲   ║
+║   🌲 🌲  ╱    ╲  ╱                                                               ╲  ╱            ╲  ╱      ╲ 🌲🌲  ║
+║  🌲🌲🌲 ╱______╲╱_______________________CLIMBING TO THE PEAK_______________________╲╱______________╲╱________╲🌲🌲🌲 ║
+║                                                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 Every line of code is a step up the mountain. Sometimes the path is clear, sometimes I'm bushwhacking through bugs. But the view from the top? Always worth it.
@@ -87,16 +88,16 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 ║            ☁️       ☁️                ☁️                    ║
 ║  ☁️                        🪂                         ☁️    ║
 ║         ☁️         FREEFALLING         ☁️                   ║
-║                            |                                 ║
+║                            |                                ║
 ║    ☁️              ☁️      |      ☁️              ☁️       ║
 ║              ☁️            |            ☁️                  ║
-║                           🤸                                 ║
-║         ☁️                 |                 ☁️             ║
-║                            |                                 ║
+║                           🤸                                ║
+║         ☁️                 |                 ☁️            ║
+║                            |                                ║
 ║    ☁️              ☁️      |      ☁️              ☁️       ║
 ║              ☁️            |            ☁️                  ║
-║                            |                                 ║
-║         ☁️                 ↓                 ☁️             ║
+║                            |                                ║
+║         ☁️                 ↓                 ☁️            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -136,8 +137,10 @@ Deploying to production is like jumping out of a plane — terrifying, exhilarat
 ## 🎭 The Paradox
 
 I'm an **ambivert** — equally comfortable in solitude and chaos:
-- 🤫 Solo coding sessions at 1 AM
+- 🤫 Solo coding sessions at 3 AM
+- 🎉 Collaborative team sprints
 - 🧘 Meditation before a big deploy
+- ⚡ Adrenaline-fueled hackathons
 
 I contain multitudes, and so does my code.
 
@@ -145,9 +148,9 @@ I contain multitudes, and so does my code.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLouTuny&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GLouTuny&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
@@ -155,9 +158,9 @@ I contain multitudes, and so does my code.
 
 *"The best way to predict the future is to build it."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/lourence-d/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourencedecena@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
@@ -167,5 +170,4 @@ I contain multitudes, and so does my code.
 
 ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
 
-Used Claude to generate.
 </div>
