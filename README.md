@@ -165,10 +165,9 @@ I contain multitudes, and so does my code.
 *"The best way to predict the future is to build it."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourence-d/)
-&nbsp;|&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-&nbsp;|&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourencedecena@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lourencedecena@gmail.com&su=Hello%20Lourence&body=Hi%20there%2C%0A%0AI%20wanted%20to%20reach%20out%20after%20seeing%20your%20profile.)
+
 
 
 ---
