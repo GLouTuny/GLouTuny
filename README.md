@@ -15,11 +15,27 @@
 ## 🌊 WATER — The Depths I Explore
 *Swimming & Freediving*
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~      ║
+║   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~    ║
+║  ~  ~  ~  ~  ~  ~  💧 DIVING DEEP 💧  ~  ~  ~  ~  ~  ~  ~  ║
+║   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~    ║
+║     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~      ║
+║        ~  ~  ~  🐟  ~  ~  ~  ~  ~  🐠  ~  ~  ~  ~          ║
+║          ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~             ║
+║             ~  ~  ~  ~  🐡  ~  ~  ~  ~  ~                   ║
+║                ~  ~  ~  ~  ~  ~  ~  ~                       ║
+║                   ~  ~  ~  ~  ~  ~                          ║
+║                      ~  ~  ~  ~                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 Like diving into the ocean's depths, I plunge into problems headfirst — holding my breath, staying focused, and emerging with solutions. The water teaches me patience, control, and the beauty of silence.
 
-```
-"In stillness, I find clarity. In depth, I find truth."
-```
+**🌊 "In stillness, I find clarity. In depth, I find truth."**
 
 **Currently Exploring:**
 - The depths of backend architecture
@@ -31,11 +47,28 @@ Like diving into the ocean's depths, I plunge into problems headfirst — holdin
 ## ⛰️ EARTH — The Heights I Conquer
 *Hiking & Mountain Climbing*
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                         ╱╲                                   ║
+║                        ╱  ╲                                  ║
+║                       ╱ 🚩 ╲              ╱╲                ║
+║                      ╱______╲            ╱  ╲               ║
+║                     ╱        ╲          ╱    ╲              ║
+║            ╱╲      ╱          ╲    ╱╲  ╱      ╲             ║
+║           ╱  ╲    ╱            ╲  ╱  ╲╱        ╲            ║
+║          ╱    ╲  ╱       🧗     ╲╱              ╲           ║
+║         ╱      ╲╱                                ╲          ║
+║   🌲   ╱                                          ╲   🌲    ║
+║  🌲🌲 ╱____________________________________________╲ 🌲🌲   ║
+║ 🌲🌲🌲             CLIMBING TO THE PEAK          🌲🌲🌲🌲  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 Every line of code is a step up the mountain. Sometimes the path is clear, sometimes I'm bushwhacking through bugs. But the view from the top? Always worth it.
 
-```
-"One step at a time, one commit at a time."
-```
+**⛰️ "One step at a time, one commit at a time."**
 
 **Currently Climbing:**
 - Full-stack development peaks
@@ -47,11 +80,30 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 ## 🪂 SKY — The Leap of Faith
 *Skydiving*
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ☁️         ☁️              ☁️         ☁️               ║
+║            ☁️       ☁️                ☁️                    ║
+║  ☁️                        🪂                         ☁️    ║
+║         ☁️         FREEFALLING         ☁️                   ║
+║                            |                                ║
+║    ☁️              ☁️      |      ☁️              ☁️       ║
+║              ☁️            |            ☁️                  ║
+║                           🤸                                ║
+║         ☁️                 |                 ☁️            ║
+║                            |                                ║
+║    ☁️              ☁️      |      ☁️              ☁️       ║
+║              ☁️            |            ☁️                  ║
+║                            |                                ║
+║         ☁️                 ↓                 ☁️            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 Deploying to production is like jumping out of a plane — terrifying, exhilarating, and requires complete trust in your preparation. I embrace the fall, knowing my code (and parachute) will catch me.
 
-```
-"Fear is temporary. Regret is forever. Deploy with confidence."
-```
+**🪂 "Fear is temporary. Regret is forever. Deploy with confidence."**
 
 **Currently Freefalling Through:**
 - New technologies and tools
@@ -114,8 +166,6 @@ I contain multitudes, and so does my code.
 <div align="center">
 
 ### 🌙 *"Dive deep, climb high, fall fearlessly."* 🌙
-
-![Anime Wave](https://i.imgur.com/your-anime-gif.gif)
 
 ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
 
