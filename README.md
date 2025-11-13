@@ -136,10 +136,8 @@ Deploying to production is like jumping out of a plane — terrifying, exhilarat
 ## 🎭 The Paradox
 
 I'm an **ambivert** — equally comfortable in solitude and chaos:
-- 🤫 Solo coding sessions at 3 AM
-- 🎉 Collaborative team sprints
+- 🤫 Solo coding sessions at 1 AM
 - 🧘 Meditation before a big deploy
-- ⚡ Adrenaline-fueled hackathons
 
 I contain multitudes, and so does my code.
 
@@ -157,9 +155,9 @@ I contain multitudes, and so does my code.
 
 *"The best way to predict the future is to build it."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/lourence-d/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourencedecena@gmail.com)
 
 ---
 
