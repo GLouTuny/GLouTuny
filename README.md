@@ -85,7 +85,7 @@ Every line of code is a step up the mountain. Sometimes the path is clear, somet
 
 ## 🪂 The Leap of Faith
 
-<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat jump" align="left" width="330"/>
+<img src="https://i.pinimg.com/originals/ec/dd/28/ecdd28da1ae88bd95646a76b98349acc.gif" alt="Cat jump" align="left" width="340"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
