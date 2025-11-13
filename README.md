@@ -1,4 +1,4 @@
-<img src="https://giffiles.alphacoders.com/222/222993.gif" alt="Giyu" align="right" width="180"/>
+<img src="https://giffiles.alphacoders.com/222/222993.gif" alt="Giyu" align="right" width="400"/>
 
 # 🌟 Welcome to My Digital Realm
 
