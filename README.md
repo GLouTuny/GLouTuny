@@ -17,7 +17,7 @@
 
 ## 🌊 The Depths I Explore
 
-<img src="https://media.tenor.com/k35nOATgiv4AAAAM/shower-cat.gif" alt="Cat Swim" align="left" width="280"/>
+<img src="https://media.tenor.com/k35nOATgiv4AAAAM/shower-cat.gif" alt="Cat Swim" align="left" width="220"/>
 
 ```
 
