@@ -17,7 +17,7 @@
 
 ## 🌊 The Depths I Explore
 
-<img src="https://i.pinimg.com/1200x/e2/82/04/e282049d81676c7249b100b4e1729588.jpg" alt="Cat Swim" align="left" width="313"/>
+<img src="https://i.pinimg.com/1200x/e2/82/04/e282049d81676c7249b100b4e1729588.jpg" alt="Cat Swim" align="left" width="300"/>
 
 ```
 
