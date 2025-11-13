@@ -1,12 +1,19 @@
-# 🌟 Welcome to My Digital Realm
+<table>
+  <tr>
+    <td>
+      <h1>🌟 Welcome to My Digital Realm</h1>
+      <blockquote><i>"A paradox in motion — sometimes lost in thought, sometimes found in action."</i></blockquote>
 
-> *"A paradox in motion — sometimes lost in thought, sometimes found in action."*
-
-<div align="center">
-  
-### ⚡ Ambivert | Adventurer | Developer ⚡
-
-**Goal: Dive • Climb • Fall**
+      <div align="center">
+        <h3>⚡ Ambivert | Adventurer | Developer ⚡</h3>
+        <b>Goal: Dive • Climb • Fall</b>
+      </div>
+    </td>
+    <td>
+      <img src="https://YOUR_GIYU_GIF_LINK_HERE.gif" alt="Giyu" width="180"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
